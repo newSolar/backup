@@ -1,6 +1,3 @@
 # backup
-Emacs, Vim config file, and Org file
 
-just for test
-
-2333
+Config files for Vim, Emacs, Openbox and so on.

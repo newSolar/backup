@@ -1,0 +1,36 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/" . "newsolar.old/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ #("/home/newsolar/org/" 15 18 (face flx-highlight-face))
+ "/home/newsolar/code/"
+ "/home/newsolar.old/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "self.org"
+ "a.cc"
+ ".spacemacs"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ (#("/home/newsolar/org/" 15 18 (face flx-highlight-face)) (21948 31731 67412 0) "self.html" "./" "../" "journal.org" "self.org" "gtd.org" "ltxmathml-in4436AUT")
+
+ ("/home/newsolar/" (21951 3631 733860 84000) ".zshrc" ".bash_logout" ".gtkrc-2.0" ".config/" "code/" ".vim/" "./" ".spacemacs" ".fonts/" ".conkyrc" ".bash_profile" "goagent/" ".zcompdump-arch-pc-5.0.8" ".bashrc" ".xinitrc" "../" ".cache/" ".emacs.d/" ".oh-my-zsh/" "Pictures/" ".bash_history" ".Xauthority" "Documents/" ".fehbg" ".vimrc" "VirtualBox VMs/" "Videos/" "Downloads/" ".local/" ".zsh_history" ".icons/" ".themes/" ".conkycolors/" ".Conky/" ".dbus/" ".viminfo" ".zsh-update" ".wallpaper/" "Templates/" ".thumbnails/" ".python-eggs/" ".lesshst" ".conky/" ".gnupg/" ".pki/" "Music/" "org/")
+
+ ("/home/newsolar/code/" (21946 8023 354027 219000) "./" "cc" "a.i" "../" "a.cc" "bb.cc" "b" "important/" "cc.cc" "aa.cc" "Templates/" "aa" "bbb.cc" "b.cc" "a.py")
+
+ ("/home/newsolar.old/" (21950 63795 67242 160000) ".gconf/" ".adobe/" ".emacs.dold/" ".bash_logout" ".xinputrc" ".config/" ".nvidia-settings-rc" ".steampid" "./" ".spacemacs" ".mozilla/" "../" ".cache/" ".emacs.d/" ".profile" ".linuxmint/" ".gnome/" ".bash_history" ".ICEauthority" ".steam/" "Desktop/" ".nviminfo" "Public/" ".spacemacs.old" ".dmrc" ".macromedia/" ".local/" ".icons/" ".themes/" ".spacemacs~" ".pulse-cookie" ".sunpinyin/" ".dbus/" ".viminfo" ".xsession-errors" ".emacs-places" ".nv/" ".gnome2_private/" ".python-eggs/" ".gksu.lock" ".pki/" ".gnome2/" ".steampath" ".nvimlog" ".cinnamon/")
+
+ ("/home/" (21950 20897 190656 276000) "./" "_newsolar/" "../" "newsolar.old/" "lost+found/" "newsolar/" "__newsolar/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
